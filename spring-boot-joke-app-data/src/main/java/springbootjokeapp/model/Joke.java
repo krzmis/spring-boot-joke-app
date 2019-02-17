@@ -1,4 +1,4 @@
-package sptingbootjokeapp.model;
+package springbootjokeapp.model;
 
 public class Joke {
 
